@@ -51,6 +51,9 @@ kiwi = lightbulb.BotApp(token='', default_enabled_guilds=())
 
 This token will be your bots. So go back to your bots page within the developer portal. The Bot tab will contain your bots token underneath the name. Paste this into the token within the application.
 
+![Screenshot 2022-02-10 150617](https://user-images.githubusercontent.com/45768489/153438311-25f70597-069d-4368-ab2d-b6c09905a2a5.png)
+
+
 If you're planning on only using this bot within a few servers, you can use the default_enabled_guilds argument. This is used to allow the commands to show near the top. To get the parameters for this, just right click on your server icon and Copy ID and paste in this argument.
 
 This was only created for personal purpose and is only being used in a couple of servers, so might aswell give the source code to other people for them to use as-well. More commands will be added.
